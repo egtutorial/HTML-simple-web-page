@@ -1,1 +1,9 @@
 body {margin: 0; padding: 30px}
+a {
+  color: inherit;
+  text-decoration: underline;
+  -webkit-animation: hue 60s infinite linear;
+}
+a:hover {
+  color: #f35626;
+}
