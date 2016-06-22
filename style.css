@@ -1,6 +1,10 @@
-body {margin: 0; padding: 30px}
+body {
+    margin: 0;
+    padding: 30px;
+    padding-top: 40px;
+}
 header {
-    color: #7b8993;
+    color: #1d93e2;
     position: fixed;
     left: 0;
     top: 0;
