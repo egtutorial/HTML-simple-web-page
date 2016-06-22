@@ -11,4 +11,4 @@ This is a simple web page, only for the beginners who just started to learn HTML
 
 You can learn the tutorials from [EgTutorial.Com](http://www.egtutorial.com/html/).
 ### [Live Demo](https://egtutorial.github.io/HTML-simple-web-page/)
-### Learn ─ [How to Create a Simple Web Page Using HTML](http://www.egtutorial.com/html/how-to-create-a-simple-web-page-using-html/)
+### Learn - [How to Create a Simple Web Page Using HTML](http://www.egtutorial.com/html/how-to-create-a-simple-web-page-using-html/)
