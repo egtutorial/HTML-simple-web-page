@@ -1,5 +1,19 @@
 body {margin: 0; padding: 30px}
-header {color: #7b8993;}
+header {
+    color: #7b8993;
+    position: fixed;
+    left: 0;
+    top: 0;
+    padding: 10px 30px;
+    width: 100%;
+    z-index: 999;
+    background-color: #ececec;
+}
+header a {
+    float: left;
+    margin-right: 15px;
+}
+header a.last {margin-right: 0;}
 a {
   color: inherit;
   text-decoration: underline;
