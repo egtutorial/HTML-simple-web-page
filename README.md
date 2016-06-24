@@ -9,8 +9,10 @@ This is a simple web page, only for the beginners who just started to learn HTML
 - HTML Ordered Lists
 - HTML Unordered Lists
 
-You can learn the tutorials from [EgTutorial.Com](http://www.egtutorial.com/html/html-tutorial/).
+> You can learn the tutorials from [EgTutorial.Com](http://www.egtutorial.com/html/html-tutorial/).
+
 ## Demo
 I have created a [Demo Page](https://egtutorial.github.io/HTML-simple-web-page/) to see it live.
+
 ## Learn
 Learn - [How to Create a Simple Web Page Using HTML](http://www.egtutorial.com/html/how-to-create-a-simple-web-page-using-html/).
